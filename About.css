@@ -1,0 +1,146 @@
+body{
+		background-color: #e5e5e5;
+	}
+	div{
+		margin: 10px;
+		padding: 10px;
+		float: left;
+	}
+	#button1{
+		background-color: darkturquoise;
+		margin-left: 20px;
+		margin-right: 20px;
+		padding: 10px;
+		font-size: 20px;
+		float: right;
+	}
+	#button2{
+		float: right;
+		font-size: 20px;
+		padding: 10px;
+		margin-left: 20px;
+		margin-right: 20px;
+		background-color: deeppink;
+	}
+    .mission{
+    	margin: 10px;
+    	padding: 10px;
+    	width: 45%;
+    }
+    .mission img{
+    	float: right;
+    	margin: 10px;
+    	padding: 10%;
+    	width: 90%;
+    	height: 90%;
+    }
+    #white{
+    	background-color: white;
+    }
+    .horizontal{
+    	list-style-type: none;
+	    margin: 0px;
+	    padding: 0px;
+	    overflow: hidden;
+	    width: 100%;
+    }
+    .horizontal .left{
+    	list-style-type: none;
+    	float: left;
+    	display: block;
+    	overflow: hidden;
+    }
+    .horizontal .left li{
+    	list-style-type: none;
+    	float: left;
+    }
+    .horizontal .left li a{
+    	font-size: 20px;
+    	list-style-type: none;
+    	display: block;
+    	margin: 10px;
+    	text-decoration: none;
+    	padding: 10px;
+    }
+    .horizontal .right{
+    	float: right;
+    	list-style-type: none;
+    }
+    .real{
+    	margin: 10px;
+    	padding: 10px;
+    	width: 45%;
+    }
+    .real img{
+    	float: left;
+    	margin: 10px;
+    	width: 310px;
+    	height: 350px;	
+    }
+    .real h1{
+    	font-size: 40px;
+    }
+    .A-yola{
+        	width: 45%;
+    }
+    .A-yola img{
+    	float: right;
+    	width: 50%;
+    	height: 50%;
+    }
+    .hitch button{
+    	float: left;
+    	margin: 10px;
+    	padding: 10px;
+    	font-size: 20px;
+    	border-radius: 30px;
+    	background-color: deeppink;
+    }
+    .hitch p{
+    	float: left;
+    	margin-left: 10px;
+    	font-size: 20px;
+    }
+    .footer{
+    	background-color: darkcyan;
+    	align-content: center;
+    	width: 100%;
+    }
+    .footer .right-footer{
+    	float: left;
+    	margin-left: 20px;
+    	margin: 10px;
+    	padding: 10px;
+    	font-size: 20px;
+    }
+    .vl{
+    	border-left: 1px solid white;
+    	height: 210px;
+    }
+    #facebook{
+    	float: left;
+    	list-style-type: none;
+    	margin: 10px;
+    	padding: 10px;
+    }
+    #facebook img{
+    	float: left;
+    	width: 60px;
+    	height: 60px;
+    	margin: 10px;
+    	padding: 10px;
+    }
+    #youtube{
+    	float: left;
+    	list-style-type: none;
+    	margin: 10px;
+    	padding: 10px;
+    }
+    #youtube img{
+    	float: left;
+    	width: 60px;
+    	height: 60px;
+    	margin: 10px;
+    	padding: 10px;
+    }
+    

@@ -1,0 +1,60 @@
+.form h1{
+		text-align: center;
+	}
+	div{
+		width: 60%;
+		margin: auto;
+		padding: 20px;
+		background-color: grey;
+		border-radius: 10px;
+	}
+	#get{
+		width: 45%;
+		font-size: 25px;
+		margin: auto;
+		padding: 10px;
+		border-radius: 10px;
+	}
+	#get input[type=text]{
+		height: 30px;
+	}
+	#eml{
+		width: 45%;
+		margin: auto;
+		padding: 10px;
+		font-size: 25px;
+		border-radius: 10px;
+	}
+	#eml input[type=text]{
+		height: 30px;
+	}
+	#psw{
+		width: 45%;
+		margin: auto;
+		padding: 10px;
+		
+		border-radius: 10px;
+	}
+	#psw label{
+		font-size: 25px;
+	}
+	#psw input[type=text]{
+		height: 30px;
+	}
+	#ckb{
+		width: 45%;
+		margin: auto;
+		padding: 20px;
+		border-radius: 10px;
+	}
+	#btn{
+		width: 45%;
+		font-size: 20px;
+		margin: auto;
+		padding: 20px;
+		border-radius: 10px;
+	}
+	#btn button{
+		background-color: #77fc03;
+	}
+	
